@@ -1,0 +1,3 @@
+Best EU: 0.3150458790561853
+['Housing', 'To', 'Ionia', 1]
+['Housing', 'To', 'Ionia', 1]

@@ -1,0 +1,3 @@
+Best EU: 0.34137389194935214
+[TransformTemplate(name='housing', inputs=[ResourceQuantity(name='AvailableLand', quantity=1), ResourceQuantity(name='Population', quantity=5), ResourceQuantity(name='Water', quantity=5), ResourceQuantity(name='MetallicElements', quantity=1), ResourceQuantity(name='Timber', quantity=5), ResourceQuantity(name='MetallicAlloys', quantity=3), ResourceQuantity(name='PotentialEnergyUsable', quantity=5)], outputs=[ResourceQuantity(name='Housing', quantity=1), ResourceQuantity(name='HousingWaste', quantity=1), ResourceQuantity(name='Population', quantity=5), ResourceQuantity(name='Water', quantity=4)]), 2]
+['ElectronicsWaste', 'From', 'Frejlord', 2]

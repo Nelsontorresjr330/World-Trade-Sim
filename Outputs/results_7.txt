@@ -1,0 +1,3 @@
+Best EU: 0.39937842875328766
+['AvailableLand', 'To', 'Zaun', 1]
+['PotentialEnergyUsable', 'To', 'Piltover', 1]

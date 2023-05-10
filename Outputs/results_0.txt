@@ -1,0 +1,3 @@
+Best EU: 0.3802445868616101
+['Timber', 'To', 'Piltover', 2]
+['MetallicAlloys', 'From', 'Targon', 1]

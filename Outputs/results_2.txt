@@ -1,0 +1,3 @@
+Best EU: 0.3451816270302815
+['PotentialEnergyUsable', 'To', 'Frejlord', 2]
+['PotentialEnergyUsable', 'To', 'Frejlord', 2]

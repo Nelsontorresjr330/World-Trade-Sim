@@ -1,0 +1,11 @@
+Country,Population,MetallicElements,Timber,MetallicAlloys,Electronics,Housing,Water,Food,AvailableLand,PotentialEnergyUsable,MetallicAlloysWaste,ElectronicsWaste,HousingWaste
+Demacia,80,90,50,0,0,0,80,20,30,50,0,0,0
+Noxus,90,60,70,0,0,0,70,30,20,20,0,0,0
+Frejlord,40,100,100,0,0,0,50,50,70,10,0,0,0
+Void,10,40,10,0,0,0,20,80,90,100,0,0,0
+Zaun,60,50,40,0,0,0,40,60,50,80,0,0,0
+Piltover,70,80,30,0,0,0,30,70,40,50,0,0,0
+Targon,100,30,60,0,0,0,90,20,10,70,0,0,0
+Shurima,30,70,20,0,0,0,10,90,100,90,0,0,0
+Ionia,20,20,90,0,0,0,60,40,80,30,0,0,0
+Bilgewater,50,10,80,0,0,0,100,10,60,40,0,0,0

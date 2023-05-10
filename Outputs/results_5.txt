@@ -1,0 +1,3 @@
+Best EU: 0.40714548879206125
+['Electronics', 'To', 'Bilgewater', 1]
+['Electronics', 'To', 'Bilgewater', 1]
